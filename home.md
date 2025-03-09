@@ -2,7 +2,7 @@
 title: 介绍
 description: 
 published: 1
-date: 2025-03-09T12:22:26.013Z
+date: 2025-03-09T12:42:42.025Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T04:54:30.645Z
@@ -31,8 +31,13 @@ Web的开发能不能参考虚幻4游戏开发引擎那样，做可视化的拖�
 这样设备做好自己的事情，监控设备运行状态，由管控服务去做。这样产品的需求点就很明确了。
 
 ## 产品形态的演化
+从技术上我们从
+nodejs后端 + vue
+转成了 
+python后端 + vue前端
 
-
+从平台上
+从windows 到 linux  再到 windows+linux
 
 # 特点
 
