@@ -2,10 +2,10 @@
 title: home
 description: 
 published: 1
-date: 2025-03-08T14:46:05.594Z
+date: 2025-03-09T05:30:09.260Z
 tags: 
 editor: markdown
-dateCreated: 2024-10-11T04:12:02.262Z
+dateCreated: 2025-03-09T04:54:30.645Z
 ---
 
 # Umbogo
@@ -49,13 +49,4 @@ vue项目 创建规则
 7异步请求更换处理 状态并发
 8ca看一下 能不能用cron的方式设置定时器 而不是
 
-## umbogo 3月8日
-注册 umbogo域名
-修改代码 整理代码
-遗留问题  反向代理 最后可能还是需要 用content的处理一下
-要参考之前版本
-整理了ca部分代码
-没整理完
-多语言还是 无法提取vue代码
-vue代码一团混乱
 
