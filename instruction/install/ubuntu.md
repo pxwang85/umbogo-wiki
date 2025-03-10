@@ -2,7 +2,7 @@
 title: ubuntu安装
 description: 
 published: 1
-date: 2025-03-10T22:35:43.858Z
+date: 2025-03-10T22:36:45.719Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-10T22:35:43.858Z
@@ -32,4 +32,6 @@ redis
 influxdb
 安装
 配置
+
+将来会给一个github的一键安装脚本
 
