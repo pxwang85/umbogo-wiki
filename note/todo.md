@@ -2,7 +2,7 @@
 title: 待做
 description: 
 published: 1
-date: 2025-03-10T00:57:49.709Z
+date: 2025-03-10T01:04:12.196Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T11:38:48.874Z
@@ -39,6 +39,9 @@ vue项目 创建规则
 
 9. windows ca证书签名
 一般 保证exe完整性
+
+10. 组网多种方式
+一般 能保证服务更加可靠
 
 10. tsdb 国产化
 一般 不影响使用，要花费时间适配
