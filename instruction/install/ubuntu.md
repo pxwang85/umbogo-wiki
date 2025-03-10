@@ -2,7 +2,7 @@
 title: ubuntu安装
 description: 
 published: 1
-date: 2025-03-10T22:36:45.719Z
+date: 2025-03-10T22:37:49.422Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-10T22:35:43.858Z
@@ -34,4 +34,14 @@ influxdb
 配置
 
 将来会给一个github的一键安装脚本
+
+配置系统环境
+
+开启系统服务
+
+
+
+
+
+
 
