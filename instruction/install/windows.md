@@ -2,10 +2,10 @@
 title: 安播 Windows安装
 description: 
 published: 1
-date: 2024-12-11T02:28:09.031Z
+date: 2025-03-10T22:23:54.699Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-10T02:12:23.722Z
+dateCreated: 2025-03-09T05:15:13.915Z
 ---
 
 # windows安装
@@ -21,7 +21,7 @@ dateCreated: 2024-12-10T02:12:23.722Z
 
 ## 2. postgresql配置
 ### 2.1 安装路径
-![1.png](/postgresql/1.png)
+![1.png](/image/postgresql/1.png)
 
 ### 2.2 安装选择
 ![2.png](/postgresql/2.png)
