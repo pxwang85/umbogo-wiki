@@ -2,7 +2,7 @@
 title: 安播 Windows安装
 description: 
 published: 1
-date: 2025-03-10T22:23:54.699Z
+date: 2025-03-10T22:25:33.335Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T05:15:13.915Z
@@ -24,19 +24,19 @@ dateCreated: 2025-03-09T05:15:13.915Z
 ![1.png](/image/postgresql/1.png)
 
 ### 2.2 安装选择
-![2.png](/postgresql/2.png)
+![2.png](/image/postgresql/2.png)
 
 ### 2.3 数据存储路径
-![3.png](/postgresql/3.png)
+![3.png](/image/postgresql/3.png)
 
 ### 2.4 修改密码
-![4.png](/postgresql/4.png)
+![4.png](/image/postgresql/4.png)
 
 ### 2.5 配置端口
-![5.png](/postgresql/5.png)
+![5.png](/image/postgresql/5.png)
 
 ### 2.6 语言 
-![6.png](/postgresql/6.png)
+![6.png](/image/postgresql/6.png)
 特别注意，不要修改使用Default Locale
 
 ## 3 创建安播用数据库 pms
@@ -45,10 +45,10 @@ dateCreated: 2025-03-09T05:15:13.915Z
 
 ### 方式一 使用postgresql自带PgAdmin4
 连接数据库，填写安装数据库时的 数据库密码
-![8.png](/postgresql/8.png)
+![8.png](/image/postgresql/8.png)
 
 创建数据库database  数据库pms
-![9.png](/postgresql/9.png)
+![9.png](/image/postgresql/9.png)
 
 如果PgAdmin系统不能用
 
@@ -93,7 +93,7 @@ cmd终端进入对应路径后，执行influxdb
 
 ## 5. 安播配置
 修改config文件夹下  config.yaml文件
-![10.png](/postgresql/10.png)
+![10.png](/image/postgresql/10.png)
 
 修改晚配置之后,执行pms
 
