@@ -2,21 +2,21 @@
 title: 待做
 description: 
 published: 1
-date: 2025-03-10T00:56:50.326Z
+date: 2025-03-10T00:57:20.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T11:38:48.874Z
 ---
 
 # umbogo 待开发
-1. 新架构 自动化编译
-一般 在github上通过wrokflow编译
-
-2. 升级保存数据 db config
+1. 升级保存数据 db config
 重要 客户
 
-3. 接口保存 可编辑
+2. 接口保存 可编辑
 稍微重要 作为记录用户通过反代操作，适配新设备的 关键节点
+
+3. 新架构 自动化编译
+一般 在github上通过wrokflow编译
 
 4. 反代拆分
 稍微重要 不影响使用 能够提高速度
