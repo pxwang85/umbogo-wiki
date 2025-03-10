@@ -2,7 +2,7 @@
 title: 待做
 description: 
 published: 1
-date: 2025-03-10T00:55:29.144Z
+date: 2025-03-10T00:56:20.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T11:38:48.874Z
@@ -36,3 +36,6 @@ vue项目 创建规则
 稍微重要 提升优化请求状态数据的速度 优化批量操作
 
 8. ca看一下 能不能用cron的方式设置定时器 而不是
+
+9. windows ca证书签名
+一般 保证exe完整性
