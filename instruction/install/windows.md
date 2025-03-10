@@ -2,7 +2,7 @@
 title: 安播 Windows安装
 description: 
 published: 1
-date: 2025-03-10T22:25:33.335Z
+date: 2025-03-10T22:27:35.996Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T05:15:13.915Z
@@ -12,7 +12,11 @@ dateCreated: 2025-03-09T05:15:13.915Z
 系统环境,使用 python3.10开发，不支持windows7系统，windows10,windows11经测试可以使用。
 
 
-安播使用postgresql数据库作为数据存储，使用influxdb时序性数据库作为状态数据的保存。
+安播
+支持postgresql数据库 或者 Sqlite数据库
+作为数据存储，
+
+使用influxdb时序性数据库作为状态数据的保存。
 
 安装环境
 ## 1. Postgresql下载
