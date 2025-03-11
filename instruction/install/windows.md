@@ -2,7 +2,7 @@
 title: 安播 Windows安装
 description: 
 published: 1
-date: 2025-03-10T22:27:35.996Z
+date: 2025-03-11T01:19:17.967Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T05:15:13.915Z
@@ -18,7 +18,9 @@ dateCreated: 2025-03-09T05:15:13.915Z
 
 使用influxdb时序性数据库作为状态数据的保存。
 
-安装环境
+安装依赖
+# PostgreSql  == 14
+
 ## 1. Postgresql下载
 官网地址：https://get.enterprisedb.com/postgresql/postgresql-14.15-1-windows-x64.exe
 
@@ -87,20 +89,26 @@ psql -U postgres
 \password postgres
 ```
 
-
-## 4. Influxdb下载
+# Influxdb
+## 1. Influxdb下载
 官网地址： https://docs.influxdata.com/influxdb/v2/install/?t=Windows#download-and-install-influxdb-v2
 
 cmd终端进入对应路径后，执行influxdb
 创建账号,密码,组织,仓库后 获取Token
 
 
-## 5. 安播配置
+## 2. 配置influxdb
+
+
+## 3. 修改config.yaml
 修改config文件夹下  config.yaml文件
 ![10.png](/image/postgresql/10.png)
+
+
+
+# Redis
 
 修改晚配置之后,执行pms
 
 
-## 6. 配置influxdb
 
