@@ -2,7 +2,7 @@
 title: 设计
 description: 在一些设计上面关注点
 published: 1
-date: 2025-03-09T11:24:37.666Z
+date: 2025-03-11T01:13:21.286Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T05:13:00.478Z
@@ -20,3 +20,6 @@ dateCreated: 2025-03-09T05:13:00.478Z
 - [设备适配 *设备适配更新独立于主程序.*](/instruction/design/devicePlugin)
 - [界面目标 *界面操作方式的设想.*](/instruction/design/ui)
 {.links-list}
+
+# 网络布局
+![network-1.png](/image/intro/network-1.png)
