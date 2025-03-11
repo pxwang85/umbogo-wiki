@@ -2,7 +2,7 @@
 title: 用户手册
 description: 
 published: 1
-date: 2025-03-10T17:21:35.842Z
+date: 2025-03-11T01:15:46.989Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T09:49:14.859Z
@@ -21,14 +21,4 @@ dateCreated: 2025-03-09T09:49:14.859Z
 能够远程管理设备 
 解决跨网段访问问题
 
-
-# 安装
-基础
-Sqlite数据库
-PostgreSql
-redis 缓存 
-filesystem
-
-influxdb
-
-# 使用
+# 功能点
