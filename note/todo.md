@@ -2,7 +2,7 @@
 title: 待做
 description: 
 published: 1
-date: 2025-03-12T12:51:26.907Z
+date: 2025-03-12T13:32:05.287Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T11:38:48.874Z
@@ -14,6 +14,9 @@ dateCreated: 2025-03-09T11:38:48.874Z
 
 2. 接口保存 可编辑
 稍微重要 作为记录用户通过反代操作，适配新设备的 关键节点
+
+3.umbogo 后台api接口权限限制
+接口权限限制还没有做 要做 必须要做
 
 3. 新架构 自动化编译
 一般 在github上通过wrokflow编译
